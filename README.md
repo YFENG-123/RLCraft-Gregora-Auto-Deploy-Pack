@@ -1,1 +1,1 @@
-# RLCraft-Gregora-Server-Pack
+# RLCraft-Gregora-Auto-Deploy-Pack
